@@ -1,0 +1,22 @@
+{
+  "name": "express_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-ski/Express-Crud-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andre-ski/Express-Crud-App/issues"
+  },
+  "homepage": "https://github.com/andre-ski/Express-Crud-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
